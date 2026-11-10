@@ -3,6 +3,25 @@
 
 Passionate backend developer focused on building robust, scalable solutions with Python. I'm an advocate for clean code, efficient databases, and best practices in software development.
 
+## Currently Working On
+
+### [Vohid TOOLKIT](https://github.com/mmVohid/devops)
+
+A single-file CLI toolkit for Windows administration and DevOps tasks, written in Batch with PowerShell helpers. Colored menu in Uzbek and English, no installation required.
+
+- Elevated CMD and PowerShell, PATH editor, Device Manager
+- System repair with DISM and SFC
+- Reboot to UEFI and shutdown with a cancellable countdown
+- Update all apps through winget
+- Find and stop the process holding a busy port, with confirmation
+
+<div align="center">
+
+[![Download TOOLKIT.bat](https://img.shields.io/badge/⬇_Download-TOOLKIT.bat-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/mmVohid/devops/releases/latest/download/TOOLKIT.bat)
+[![View on GitHub](https://img.shields.io/badge/View_on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mmVohid/devops)
+
+</div>
+
 ## Tech Stack
 
 <div align="center">
@@ -15,6 +34,8 @@ Passionate backend developer focused on building robust, scalable solutions with
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
 
@@ -23,5 +44,5 @@ Passionate backend developer focused on building robust, scalable solutions with
 </div>
 
 <div align="center">
-  <p>Made with by <strong>mnmbackend</strong></p>
+  <p>Made with ❤️ by <strong>mnmbackend</strong></p>
 </div>
