@@ -3,25 +3,6 @@
 
 Passionate backend developer focused on building robust, scalable solutions with Python. I'm an advocate for clean code, efficient databases, and best practices in software development.
 
-## Currently Working On
-
-### [Vohid TOOLKIT](https://github.com/mmVohid/devops)
-
-A single-file CLI toolkit for Windows administration and DevOps tasks, written in Batch with PowerShell helpers. Colored menu in Uzbek and English, no installation required.
-
-- Elevated CMD and PowerShell, PATH editor, Device Manager
-- System repair with DISM and SFC
-- Reboot to UEFI and shutdown with a cancellable countdown
-- Update all apps through winget
-- Find and stop the process holding a busy port, with confirmation
-
-<div align="center">
-
-[![Download TOOLKIT.bat](https://img.shields.io/badge/⬇_Download-TOOLKIT.bat-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/mmVohid/devops/releases/latest/download/TOOLKIT.bat)
-[![View on GitHub](https://img.shields.io/badge/View_on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mmVohid/devops)
-
-</div>
-
 ## Tech Stack
 
 <div align="center">
