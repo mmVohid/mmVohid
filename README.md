@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.svg" alt="mmVohid — Backend and Android Developer" width="900">
+  <img src="header.svg" alt="Muhammadamin Vohid — Backend and Android Developer" width="900">
 </div>
 
 <br>
@@ -18,18 +18,14 @@
   <h2>Projects</h2>
 </div>
 
-<table>
+<table align="center">
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/mmVohid/Uploat-V"><img src="https://raw.githubusercontent.com/mmVohid/Uploat-V/main/docs/logo.png" width="28" align="center" alt=""> Uploat-V</a></h3>
-      A lightweight, reliable video downloader for Android. Quality picker, background downloads, resume on reconnect, light and dark themes.<br><br>
-      <sub>Kotlin · Jetpack Compose · yt-dlp</sub><br><br>
+    <td align="center">
+      <a href="https://github.com/mmVohid/Uploat-V"><img src="card-uploat-v.svg" width="410" alt="Uploat-V — lightweight video downloader for Android"></a><br>
       <a href="https://github.com/mmVohid/Uploat-V/releases/latest"><b>Download APK</b></a> · <a href="https://github.com/mmVohid/Uploat-V">Source</a>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/mmVohid/V-Toolkit">🛠️ V-Toolkit</a></h3>
-      A single-file Windows admin and DevOps toolkit with Uzbek and English UI. One script, many everyday tools.<br><br>
-      <sub>Batch · Windows</sub><br><br>
+    <td align="center">
+      <a href="https://github.com/mmVohid/V-Toolkit"><img src="card-v-toolkit.svg" width="410" alt="V-Toolkit — Windows admin and DevOps toolkit"></a><br>
       <a href="https://github.com/mmVohid/V-Toolkit"><b>Source</b></a>
     </td>
   </tr>
