@@ -43,6 +43,16 @@ Backend developer building robust, scalable solutions with Python, and Android a
   </tr>
 </table>
 
+## Contact
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-@mmVohid-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mmVohid)
+[![Feedback bot](https://img.shields.io/badge/Feedback_bot-@mmvohidbot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mmvohidbot)
+[![Gmail](https://img.shields.io/badge/Gmail-mnmbackend@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mnmbackend@gmail.com)
+
+</div>
+
 <div align="center">
   <p>Made with ❤️ by <strong>mmVohid</strong></p>
 </div>
