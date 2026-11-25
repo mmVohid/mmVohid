@@ -18,6 +18,19 @@ Passionate backend developer focused on building robust, scalable solutions with
 
 </div>
 
+## Projects
+
+<table>
+  <tr>
+    <td width="80" align="center"><a href="https://github.com/mmVohid/Uploat-V"><img src="https://raw.githubusercontent.com/mmVohid/Uploat-V/main/docs/logo.png" width="64" alt="Uploat-V"></a></td>
+    <td>
+      <a href="https://github.com/mmVohid/Uploat-V"><b>Uploat-V</b></a> — a lightweight video downloader for Android.<br>
+      Kotlin · Jetpack Compose · yt-dlp<br>
+      <a href="https://github.com/mmVohid/Uploat-V/releases/latest">Download APK</a> · <a href="https://github.com/mmVohid/Uploat-V">Source</a>
+    </td>
+  </tr>
+</table>
+
 <div align="center" style="margin-top: 30px;">
   <img src="./1.gif" alt="Setup" width="80%" style="border-radius: 8px;">
 </div>
