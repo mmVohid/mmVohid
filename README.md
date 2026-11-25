@@ -1,31 +1,8 @@
 <div align="center">
-  <img src="terminal.svg" alt="Terminal: whoami — mmVohid, Backend and Android Developer" width="760">
+  <img src="header.svg" alt="mmVohid — Backend and Android Developer" width="900">
 </div>
 
-<p align="center"><sub>Backend developer building robust, scalable solutions with Python, and Android apps with Kotlin and Jetpack Compose.</sub></p>
-
-## Projects
-
-<table>
-  <tr>
-    <td width="80" align="center"><a href="https://github.com/mmVohid/Uploat-V"><img src="https://raw.githubusercontent.com/mmVohid/Uploat-V/main/docs/logo.png" width="64" alt="Uploat-V"></a></td>
-    <td>
-      <a href="https://github.com/mmVohid/Uploat-V"><b>Uploat-V</b></a> — a lightweight video downloader for Android.<br>
-      Kotlin · Jetpack Compose · yt-dlp<br>
-      <a href="https://github.com/mmVohid/Uploat-V/releases/latest">Download APK</a> · <a href="https://github.com/mmVohid/Uploat-V">Source</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="80" align="center"><a href="https://github.com/mmVohid/V-Toolkit">🛠️</a></td>
-    <td>
-      <a href="https://github.com/mmVohid/V-Toolkit"><b>V-Toolkit</b></a> — a single-file Windows admin / DevOps batch toolkit with Uzbek and English UI.<br>
-      Batch · Windows<br>
-      <a href="https://github.com/mmVohid/V-Toolkit">Source</a>
-    </td>
-  </tr>
-</table>
-
-## Contact
+<br>
 
 <div align="center">
 
@@ -35,25 +12,54 @@
 
 </div>
 
-## Tech Stack
+<br>
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
+  <h2>Projects</h2>
 </div>
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mmVohid/Uploat-V"><img src="https://raw.githubusercontent.com/mmVohid/Uploat-V/main/docs/logo.png" width="28" align="center" alt=""> Uploat-V</a></h3>
+      A lightweight, reliable video downloader for Android. Quality picker, background downloads, resume on reconnect, light and dark themes.<br><br>
+      <sub>Kotlin · Jetpack Compose · yt-dlp</sub><br><br>
+      <a href="https://github.com/mmVohid/Uploat-V/releases/latest"><b>Download APK</b></a> · <a href="https://github.com/mmVohid/Uploat-V">Source</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mmVohid/V-Toolkit">🛠️ V-Toolkit</a></h3>
+      A single-file Windows admin and DevOps toolkit with Uzbek and English UI. One script, many everyday tools.<br><br>
+      <sub>Batch · Windows</sub><br><br>
+      <a href="https://github.com/mmVohid/V-Toolkit"><b>Source</b></a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <div align="center">
-  <p>Made with ❤️ by <strong>mmVohid</strong></p>
+  <h2>Stack</h2>
+
+  <sub>BACKEND</sub><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+  <br><br>
+  <sub>MOBILE</sub><br>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
+  <br><br>
+  <sub>TOOLS</sub><br>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="footer.svg" alt="" width="900">
 </div>
