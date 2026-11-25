@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header-2.svg" alt="Muhammadamin Vohid — Backend and Android Developer" width="900">
+  <img src="header-3.svg" alt="Vohid Muhammadamin — Backend and Android Developer" width="900">
 </div>
 
 <br>
