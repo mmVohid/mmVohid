@@ -1,7 +1,8 @@
-## About Me
-**Backend & Android Developer | Python Enthusiast | Linux & Git Advocate**
+<div align="center">
+  <img src="terminal.svg" alt="Terminal: whoami — mmVohid, Backend and Android Developer" width="760">
+</div>
 
-Backend developer building robust, scalable solutions with Python, and Android apps with Kotlin and Jetpack Compose. I'm an advocate for clean code, efficient databases, and best practices in software development.
+<p align="center"><sub>Backend developer building robust, scalable solutions with Python, and Android apps with Kotlin and Jetpack Compose.</sub></p>
 
 ## Tech Stack
 
