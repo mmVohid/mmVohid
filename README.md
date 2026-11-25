@@ -1,7 +1,7 @@
 ## About Me
-**Backend Developer | Python Enthusiast | Linux & Git Advocate**
+**Backend & Android Developer | Python Enthusiast | Linux & Git Advocate**
 
-Passionate backend developer focused on building robust, scalable solutions with Python. I'm an advocate for clean code, efficient databases, and best practices in software development.
+Backend developer building robust, scalable solutions with Python, and Android apps with Kotlin and Jetpack Compose. I'm an advocate for clean code, efficient databases, and best practices in software development.
 
 ## Tech Stack
 
@@ -13,6 +13,10 @@ Passionate backend developer focused on building robust, scalable solutions with
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -29,12 +33,16 @@ Passionate backend developer focused on building robust, scalable solutions with
       <a href="https://github.com/mmVohid/Uploat-V/releases/latest">Download APK</a> · <a href="https://github.com/mmVohid/Uploat-V">Source</a>
     </td>
   </tr>
+  <tr>
+    <td width="80" align="center"><a href="https://github.com/mmVohid/V-Toolkit">🛠️</a></td>
+    <td>
+      <a href="https://github.com/mmVohid/V-Toolkit"><b>V-Toolkit</b></a> — a single-file Windows admin / DevOps batch toolkit with Uzbek and English UI.<br>
+      Batch · Windows<br>
+      <a href="https://github.com/mmVohid/V-Toolkit">Source</a>
+    </td>
+  </tr>
 </table>
 
-<div align="center" style="margin-top: 30px;">
-  <img src="./1.gif" alt="Setup" width="80%" style="border-radius: 8px;">
-</div>
-
 <div align="center">
-  <p>Made with ❤️ by <strong>mnmbackend</strong></p>
+  <p>Made with ❤️ by <strong>mmVohid</strong></p>
 </div>
