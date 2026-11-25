@@ -5,12 +5,19 @@
 <br>
 
 <div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-@mmVohid-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mmVohid)
-[![Feedback bot](https://img.shields.io/badge/Feedback_bot-@mmvohidbot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mmvohidbot)
-[![Gmail](https://img.shields.io/badge/Gmail-mnmbackend@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mnmbackend@gmail.com)
-
+  <h2>Contact</h2>
+  <sub>Questions, ideas or feedback — I read everything.</sub>
 </div>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td><a href="https://t.me/mmVohid"><img src="contact-telegram.svg" width="280" alt="Telegram @mmVohid"></a></td>
+    <td><a href="https://t.me/mmvohidbot"><img src="contact-bot.svg" width="280" alt="Feedback bot @mmvohidbot"></a></td>
+    <td><a href="mailto:mnmbackend@gmail.com"><img src="contact-email.svg" width="280" alt="Email mnmbackend@gmail.com"></a></td>
+  </tr>
+</table>
 
 <br>
 

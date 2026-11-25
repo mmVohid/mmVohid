@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="84" viewBox="0 0 300 84" role="img" aria-label="FEEDBACK BOT: @mmvohidbot">
+<defs>
+<linearGradient id="bgb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#120c24"/><stop offset="1" stop-color="#241447"/></linearGradient>
+<linearGradient id="bdb" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#a371f7"><animate attributeName="offset" values="0;.7;0" dur="5s" repeatCount="indefinite"/></stop><stop offset=".55" stop-color="#fff" stop-opacity=".22"/><stop offset="1" stop-color="#a371f7"/></linearGradient>
+<radialGradient id="glb" cx=".12" cy=".5" r=".6"><stop offset="0" stop-color="#a371f7" stop-opacity=".45"/><stop offset="1" stop-color="#a371f7" stop-opacity="0"/></radialGradient>
+<clipPath id="cpb"><rect width="300" height="84" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#cpb)">
+<rect width="300" height="84" fill="url(#bgb)"/>
+<rect width="300" height="84" fill="url(#glb)"><animate attributeName="opacity" values=".55;1;.55" dur="3.6s" repeatCount="indefinite"/></rect>
+<circle cx="44" cy="42" r="26" fill="#a371f7" fill-opacity=".14" stroke="#a371f7" stroke-opacity=".5"><animate attributeName="r" values="26;29;26" dur="3.6s" repeatCount="indefinite"/></circle>
+<g><line x1="44" y1="27" x2="44" y2="32" stroke="#fff" stroke-width="2" stroke-linecap="round"/><circle cx="44" cy="25.5" r="2.4" fill="#fff"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
+<rect x="31" y="32" width="26" height="20" rx="6" fill="none" stroke="#fff" stroke-width="2.2"/>
+<g fill="#fff"><ellipse cx="38.5" cy="42" rx="2.6" ry="2.6"><animate attributeName="ry" values="2.6;2.6;.3;2.6" keyTimes="0;.85;.92;1" dur="3.4s" repeatCount="indefinite"/></ellipse><ellipse cx="49.5" cy="42" rx="2.6" ry="2.6"><animate attributeName="ry" values="2.6;2.6;.3;2.6" keyTimes="0;.85;.92;1" dur="3.4s" repeatCount="indefinite"/></ellipse></g>
+<line x1="38" y1="48" x2="50" y2="48" stroke="#fff" stroke-width="1.6" stroke-linecap="round" opacity=".8"/></g>
+<text x="86" y="31" fill="#a371f7" style="font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;font-size:10.5px;letter-spacing:2px">FEEDBACK BOT</text>
+<text x="86" y="53" fill="#fff" style="font-family:'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif;font-weight:700;font-size:19px">@mmvohidbot</text>
+<text x="86" y="69" fill="#9db0c9" style="font-family:'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif;font-size:12px">Send feedback or an idea</text>
+</g>
+<rect x="1" y="1" width="298" height="82" rx="15" fill="none" stroke="url(#bdb)" stroke-width="1.5"/>
+</svg>

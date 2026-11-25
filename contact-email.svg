@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="84" viewBox="0 0 300 84" role="img" aria-label="EMAIL: mnmbackend@gmail.com">
+<defs>
+<linearGradient id="bgm" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1e0f0a"/><stop offset="1" stop-color="#3a1a10"/></linearGradient>
+<linearGradient id="bdm" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f0883e"><animate attributeName="offset" values="0;.7;0" dur="5s" repeatCount="indefinite"/></stop><stop offset=".55" stop-color="#fff" stop-opacity=".22"/><stop offset="1" stop-color="#f0883e"/></linearGradient>
+<radialGradient id="glm" cx=".12" cy=".5" r=".6"><stop offset="0" stop-color="#f0883e" stop-opacity=".45"/><stop offset="1" stop-color="#f0883e" stop-opacity="0"/></radialGradient>
+<clipPath id="cpm"><rect width="300" height="84" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#cpm)">
+<rect width="300" height="84" fill="url(#bgm)"/>
+<rect width="300" height="84" fill="url(#glm)"><animate attributeName="opacity" values=".55;1;.55" dur="3.6s" repeatCount="indefinite"/></rect>
+<circle cx="44" cy="42" r="26" fill="#f0883e" fill-opacity=".14" stroke="#f0883e" stroke-opacity=".5"><animate attributeName="r" values="26;29;26" dur="3.6s" repeatCount="indefinite"/></circle>
+<g><rect x="31" y="32" width="26" height="20" rx="4" fill="none" stroke="#fff" stroke-width="2.2"/>
+<path d="M32 34 L44 44 L56 34" fill="none" stroke="#fff" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"><animate attributeName="d" values="M32 34 L44 44 L56 34;M32 34 L44 41 L56 34;M32 34 L44 44 L56 34" dur="2.8s" repeatCount="indefinite"/></path>
+<circle cx="57" cy="31" r="4.5" fill="#ff4d4d"><animate attributeName="r" values="4.5;5.6;4.5" dur="1.8s" repeatCount="indefinite"/></circle></g>
+<text x="86" y="31" fill="#f0883e" style="font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;font-size:10.5px;letter-spacing:2px">EMAIL</text>
+<text x="86" y="53" fill="#fff" style="font-family:'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif;font-weight:700;font-size:15.5px">mnmbackend@gmail.com</text>
+<text x="86" y="69" fill="#9db0c9" style="font-family:'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif;font-size:12px">Write to my inbox</text>
+</g>
+<rect x="1" y="1" width="298" height="82" rx="15" fill="none" stroke="url(#bdm)" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="84" viewBox="0 0 300 84" role="img" aria-label="TELEGRAM: @mmVohid">
+<defs>
+<linearGradient id="bgt" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07162b"/><stop offset="1" stop-color="#0a2a45"/></linearGradient>
+<linearGradient id="bdt" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#26A5E4"><animate attributeName="offset" values="0;.7;0" dur="5s" repeatCount="indefinite"/></stop><stop offset=".55" stop-color="#fff" stop-opacity=".22"/><stop offset="1" stop-color="#26A5E4"/></linearGradient>
+<radialGradient id="glt" cx=".12" cy=".5" r=".6"><stop offset="0" stop-color="#26A5E4" stop-opacity=".45"/><stop offset="1" stop-color="#26A5E4" stop-opacity="0"/></radialGradient>
+<clipPath id="cpt"><rect width="300" height="84" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#cpt)">
+<rect width="300" height="84" fill="url(#bgt)"/>
+<rect width="300" height="84" fill="url(#glt)"><animate attributeName="opacity" values=".55;1;.55" dur="3.6s" repeatCount="indefinite"/></rect>
+<circle cx="44" cy="42" r="26" fill="#26A5E4" fill-opacity=".14" stroke="#26A5E4" stroke-opacity=".5"><animate attributeName="r" values="26;29;26" dur="3.6s" repeatCount="indefinite"/></circle>
+<g fill="#fff"><animateTransform attributeName="transform" type="translate" values="0,0;3,-3;0,0" dur="2.4s" repeatCount="indefinite"/><path d="M33 42.5 L56 32 L50.5 54 L44.5 47.5 L40.5 51 L40 45.5 L52 36 L38 44.5 Z"/></g>
+<text x="86" y="31" fill="#26A5E4" style="font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;font-size:10.5px;letter-spacing:2px">TELEGRAM</text>
+<text x="86" y="53" fill="#fff" style="font-family:'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif;font-weight:700;font-size:19px">@mmVohid</text>
+<text x="86" y="69" fill="#9db0c9" style="font-family:'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif;font-size:12px">Message me directly</text>
+</g>
+<rect x="1" y="1" width="298" height="82" rx="15" fill="none" stroke="url(#bdt)" stroke-width="1.5"/>
+</svg>
