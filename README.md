@@ -1,12 +1,5 @@
 <div align="center">
-  <img src="header-4.svg" alt="Muhammadamin — Backend and Android Developer" width="900">
-</div>
-
-<br>
-
-<div align="center">
-  <h2>Contact</h2>
-  <sub>Questions, ideas or feedback — I read everything.</sub>
+  <img src="header-4.svg" alt="Vohid — Backend and Android Developer" width="900">
 </div>
 
 <br>
@@ -20,10 +13,6 @@
 </table>
 
 <br>
-
-<div align="center">
-  <h2>Projects</h2>
-</div>
 
 <table align="center">
   <tr>
@@ -41,7 +30,6 @@
 <br>
 
 <div align="center">
-  <h2>Stack</h2>
   <img src="stack.svg" width="900" alt="Stack: Python, PostgreSQL, SQLite; Kotlin, Jetpack Compose, Android; Linux, Git, GitHub Actions, HTML5, CSS3">
 </div>
 
